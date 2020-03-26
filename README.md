@@ -12,6 +12,9 @@ Inspired the popular [Awesome List](https://github.com/sindresorhus/awesome)
 7. [Places](#places)
 8. [Mobile apps](#mobile-apps)
 
+***
+
+
 #### Books
 - [Music Research Library](http://musicresearchlibrary.net/omeka/)
 - [Carnatic Summer](https://www.goodreads.com/book/show/4809072-carnatic-summer)
@@ -43,3 +46,4 @@ Inspired the popular [Awesome List](https://github.com/sindresorhus/awesome)
 #### Mobile Apps
 - [Kuyil Carnatic Apps](https://kuyil.org/)
 - [Upbeat Labs](http://www.upbeatlabs.com/)
+- [Riyaz App](https://riyazapp.com/)
