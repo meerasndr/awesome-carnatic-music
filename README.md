@@ -1,6 +1,6 @@
 # Awesome Carnatic Music
 A collection of awesome carnatic music: YouTube channels, playlists, apps and learning resources.
-Inspired the popular [Awesome List] (https://github.com/sindresorhus/awesome)
+Inspired the popular [Awesome List](https://github.com/sindresorhus/awesome)
 
 ### Categories
 1. [Books](#books)
