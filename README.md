@@ -14,8 +14,14 @@ Inspired the popular [Awesome List](https://github.com/sindresorhus/awesome)
 
 #### Books
 - [Music Research Library](http://musicresearchlibrary.net/omeka/)
+- [Carnatic Summer](https://www.goodreads.com/book/show/4809072-carnatic-summer)
+- [Great Masters of Carnatic Music](https://www.goodreads.com/book/show/10701518-great-masters-of-carnatic-music-1930-1965)
+- [The Madras Quartet: Women in Karnatak Music](https://www.goodreads.com/book/show/52528379-the-madras-quartet)
+- [The Devadasi and the Saint: The life and times of Bangalore Nagarathnamma](https://www.goodreads.com/book/show/10434498-the-devadasi-and-the-saint)
+- [Voice of the Veena](https://www.goodreads.com/book/show/15815995-voice-of-the-veena-s-balachander)
 
 #### Blogs
+- [Sruti Online Magazine](https://srutimag.blogspot.com/)
 - [Brain Drain](https://kpjayan.wordpress.com/)
 
 #### Listening Resources
