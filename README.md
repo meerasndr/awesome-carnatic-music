@@ -1,4 +1,4 @@
-# awesome-carnatic-music
+# Awesome Carnatic Music
 A collection of awesome carnatic music: YouTube channels, playlists, apps and learning resources.
 
 ### Categories
@@ -18,4 +18,19 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam in sapien rutru
 Vivamus sollicitudin fringilla libero, in facilisis ex volutpat vel. Integer volutpat libero augue, at ornare nulla suscipit a. Proin ultricies metus eget ex finibus hendrerit. Donec dignissim placerat ullamcorper. Vivamus laoreet risus leo, ut sodales nibh viverra et. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Praesent finibus est mollis pulvinar viverra. Cras vel turpis id ex sodales sagittis et at nibh.
 
 #### Youtube Channels
+Vivamus sollicitudin fringilla libero, in facilisis ex volutpat vel. Integer volutpat libero augue, at ornare nulla suscipit a. Proin ultricies metus eget ex finibus hendrerit. Donec dignissim placerat ullamcorper. Vivamus laoreet risus leo, ut sodales nibh viverra et. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Praesent finibus est mollis pulvinar viverra. Cras vel turpis id ex sodales sagittis et at nibh.
+
+#### Online Learning Resources
+Vivamus sollicitudin fringilla libero, in facilisis ex volutpat vel. Integer volutpat libero augue, at ornare nulla suscipit a. Proin ultricies metus eget ex finibus hendrerit. Donec dignissim placerat ullamcorper. Vivamus laoreet risus leo, ut sodales nibh viverra et. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Praesent finibus est mollis pulvinar viverra. Cras vel turpis id ex sodales sagittis et at nibh.
+
+#### Composer Central
+Vivamus sollicitudin fringilla libero, in facilisis ex volutpat vel. Integer volutpat libero augue, at ornare nulla suscipit a. Proin ultricies metus eget ex finibus hendrerit. Donec dignissim placerat ullamcorper. Vivamus laoreet risus leo, ut sodales nibh viverra et. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Praesent finibus est mollis pulvinar viverra. Cras vel turpis id ex sodales sagittis et at nibh.
+
+#### Community Websites
+Vivamus sollicitudin fringilla libero, in facilisis ex volutpat vel. Integer volutpat libero augue, at ornare nulla suscipit a. Proin ultricies metus eget ex finibus hendrerit. Donec dignissim placerat ullamcorper. Vivamus laoreet risus leo, ut sodales nibh viverra et. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Praesent finibus est mollis pulvinar viverra. Cras vel turpis id ex sodales sagittis et at nibh.
+
+#### Iconic Places
+Vivamus sollicitudin fringilla libero, in facilisis ex volutpat vel. Integer volutpat libero augue, at ornare nulla suscipit a. Proin ultricies metus eget ex finibus hendrerit. Donec dignissim placerat ullamcorper. Vivamus laoreet risus leo, ut sodales nibh viverra et. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Praesent finibus est mollis pulvinar viverra. Cras vel turpis id ex sodales sagittis et at nibh.
+
+#### Mobile Apps
 Vivamus sollicitudin fringilla libero, in facilisis ex volutpat vel. Integer volutpat libero augue, at ornare nulla suscipit a. Proin ultricies metus eget ex finibus hendrerit. Donec dignissim placerat ullamcorper. Vivamus laoreet risus leo, ut sodales nibh viverra et. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Praesent finibus est mollis pulvinar viverra. Cras vel turpis id ex sodales sagittis et at nibh.
