@@ -1,6 +1,6 @@
 # Awesome Carnatic Music
 A collection of awesome carnatic music: YouTube channels, playlists, apps and learning resources.
-Inspired the popular [Awesome List](https://github.com/sindresorhus/awesome)
+Inspired by the popular [Awesome List](https://github.com/sindresorhus/awesome)
 
 ### Categories
 1. [Books](#books)
@@ -47,3 +47,4 @@ Inspired the popular [Awesome List](https://github.com/sindresorhus/awesome)
 - [Kuyil Carnatic Apps](https://kuyil.org/)
 - [Upbeat Labs](http://www.upbeatlabs.com/)
 - [Riyaz App](https://riyazapp.com/)
+- [Layam Carnatic Metronome](http://mysorevadiraj.com/layam-carnatic-metronome-app/)
