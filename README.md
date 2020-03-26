@@ -1,36 +1,39 @@
 # Awesome Carnatic Music
 A collection of awesome carnatic music: YouTube channels, playlists, apps and learning resources.
+Inspired the popular [Awesome List] (https://github.com/sindresorhus/awesome)
 
 ### Categories
 1. [Books](#books)
 2. [Blogs](#blogs)
-3. [YouTube Channels](#youtube-channels)
+3. [Listening Resources](#learning-resources)
 4. [Online Learning Resources](#online-learning-resources)
 5. [Composer Central](#composer-central)
 6. [Community websites](#community-websites)
-7. [Iconic Places](#iconic-places)
+7. [Places](#places)
 8. [Mobile apps](#mobile-apps)
 
 #### Books
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam in sapien rutrum nulla pellentesque tincidunt. Praesent a sapien at felis scelerisque tempus. Duis malesuada at risus a ultricies. In hac habitasse platea dictumst. Nunc ultricies massa vestibulum tellus euismod sagittis. Curabitur pellentesque dictum leo, vel dictum velit dictum vitae. Donec consequat tempor magna. Fusce finibus, metus auctor vulputate tincidunt, urna tellus eleifend neque, vitae tempor orci odio quis felis.
+- [Music Research Library](http://musicresearchlibrary.net/omeka/)
 
 #### Blogs
-Vivamus sollicitudin fringilla libero, in facilisis ex volutpat vel. Integer volutpat libero augue, at ornare nulla suscipit a. Proin ultricies metus eget ex finibus hendrerit. Donec dignissim placerat ullamcorper. Vivamus laoreet risus leo, ut sodales nibh viverra et. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Praesent finibus est mollis pulvinar viverra. Cras vel turpis id ex sodales sagittis et at nibh.
+- [Brain Drain](https://kpjayan.wordpress.com/)
 
-#### Youtube Channels
-Vivamus sollicitudin fringilla libero, in facilisis ex volutpat vel. Integer volutpat libero augue, at ornare nulla suscipit a. Proin ultricies metus eget ex finibus hendrerit. Donec dignissim placerat ullamcorper. Vivamus laoreet risus leo, ut sodales nibh viverra et. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Praesent finibus est mollis pulvinar viverra. Cras vel turpis id ex sodales sagittis et at nibh.
+#### Listening Resources
+- [Sangeetha Rasika](https://www.youtube.com/channel/UC1GKiyaJP1KtrWVoUj9ti5A)
+- [Sangeethapriya](http://www.sangeethapriya.org)
 
 #### Online Learning Resources
-Vivamus sollicitudin fringilla libero, in facilisis ex volutpat vel. Integer volutpat libero augue, at ornare nulla suscipit a. Proin ultricies metus eget ex finibus hendrerit. Donec dignissim placerat ullamcorper. Vivamus laoreet risus leo, ut sodales nibh viverra et. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Praesent finibus est mollis pulvinar viverra. Cras vel turpis id ex sodales sagittis et at nibh.
+- [Raga Surabhi](http://www.ragasurabhi.com/index.html)
 
 #### Composer Central
-Vivamus sollicitudin fringilla libero, in facilisis ex volutpat vel. Integer volutpat libero augue, at ornare nulla suscipit a. Proin ultricies metus eget ex finibus hendrerit. Donec dignissim placerat ullamcorper. Vivamus laoreet risus leo, ut sodales nibh viverra et. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Praesent finibus est mollis pulvinar viverra. Cras vel turpis id ex sodales sagittis et at nibh.
+- [Muthuswami Dikshitar](http://www.sangeethapriya.org/tributes/dikshithar/index.html)
 
 #### Community Websites
-Vivamus sollicitudin fringilla libero, in facilisis ex volutpat vel. Integer volutpat libero augue, at ornare nulla suscipit a. Proin ultricies metus eget ex finibus hendrerit. Donec dignissim placerat ullamcorper. Vivamus laoreet risus leo, ut sodales nibh viverra et. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Praesent finibus est mollis pulvinar viverra. Cras vel turpis id ex sodales sagittis et at nibh.
+- [Rasikas](http://www.rasikas.org/forums/)
 
-#### Iconic Places
-Vivamus sollicitudin fringilla libero, in facilisis ex volutpat vel. Integer volutpat libero augue, at ornare nulla suscipit a. Proin ultricies metus eget ex finibus hendrerit. Donec dignissim placerat ullamcorper. Vivamus laoreet risus leo, ut sodales nibh viverra et. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Praesent finibus est mollis pulvinar viverra. Cras vel turpis id ex sodales sagittis et at nibh.
+#### Places
+- [Thyagaraja's Brindavana](http://thiruvaiyaruthyagarajaaradhana.org/)
 
 #### Mobile Apps
-Vivamus sollicitudin fringilla libero, in facilisis ex volutpat vel. Integer volutpat libero augue, at ornare nulla suscipit a. Proin ultricies metus eget ex finibus hendrerit. Donec dignissim placerat ullamcorper. Vivamus laoreet risus leo, ut sodales nibh viverra et. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Praesent finibus est mollis pulvinar viverra. Cras vel turpis id ex sodales sagittis et at nibh.
+- [Kuyil Carnatic Apps](https://kuyil.org/)
+- [Upbeat Labs](http://www.upbeatlabs.com/)
