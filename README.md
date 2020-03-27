@@ -22,6 +22,7 @@ Disclaimer: At the moment, this is aimed to be a generic resource list. No speci
 
 
 ### Books
+- [The Karnatic Music Book Centre](https://www.facebook.com/carnaticbooks/)
 - [Music Research Library](http://musicresearchlibrary.net/omeka/)
 - [Carnatic Summer](https://www.goodreads.com/book/show/4809072-carnatic-summer)
 - [Great Masters of Carnatic Music](https://www.goodreads.com/book/show/10701518-great-masters-of-carnatic-music-1930-1965)
@@ -34,6 +35,7 @@ Disclaimer: At the moment, this is aimed to be a generic resource list. No speci
 - [Brain Drain](https://kpjayan.wordpress.com/)
 - [Nadha Sudha Rasa](https://nadhasudharasa.blogspot.com/)
 - [Sunson - Just Thinking Out Loud](https://sunson.wordpress.com/)
+- [Sriram V](https://sriramv.wordpress.com/category/carnatic-music/)
 
 ### Listening Resources
 
@@ -58,6 +60,8 @@ Disclaimer: At the moment, this is aimed to be a generic resource list. No speci
     - [Aditya Music Carnatic](https://www.youtube.com/channel/UCkGxgZZw4mZ4zjgU69BkLlw)
     - [Nadham Carnatic Classical](https://www.youtube.com/channel/UCDSbGrghya9nxcxez3QSyOg)
     - [Tandora Networks](https://www.youtube.com/channel/UCGh3q3IDZF00QqLTxrbYs1A)
+    - [Musique4ever](https://www.youtube.com/user/Musique4ever/videos)
+    - [Carnatic World](https://www.youtube.com/channel/UC94j0n0mlgzG7_M8GF-6E8A)
 
   - #### Websites
     - [Sangeethapriya](http://www.sangeethapriya.org)
@@ -88,7 +92,7 @@ Disclaimer: At the moment, this is aimed to be a generic resource list. No speci
 
 ### Places
 - [Thyagaraja's Brindavana](http://thiruvaiyaruthyagarajaaradhana.org/)
-- [The Karnatic Music Book Centre](https://www.facebook.com/carnaticbooks/)
+- [Madras Music Academy](https://musicacademymadras.in/)
 
 ### Mobile Apps
 - [Kuyil Carnatic Apps](https://kuyil.org/)
