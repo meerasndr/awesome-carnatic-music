@@ -26,13 +26,36 @@ Inspired by the popular [Awesome List](https://github.com/sindresorhus/awesome)
 #### Blogs
 - [Sruti Online Magazine](https://srutimag.blogspot.com/)
 - [Brain Drain](https://kpjayan.wordpress.com/)
+- [Nadha Sudha Rasa](https://nadhasudharasa.blogspot.com/)
+- [Sunson - Just Thinking Out Loud](https://sunson.wordpress.com/)
 
 #### Listening Resources
-- [Sangeetha Rasika](https://www.youtube.com/channel/UC1GKiyaJP1KtrWVoUj9ti5A)
-- [Sangeethapriya](http://www.sangeethapriya.org)
+
+  - ##### YouTube Channels
+    - [Sangeetha Rasika](https://www.youtube.com/channel/UC1GKiyaJP1KtrWVoUj9ti5A)
+    - [First Edition Arts](https://www.youtube.com/channel/UC7OXY2c5apsxw4J-Kx4p_NQ)
+    - [Darbar Festival](https://www.youtube.com/user/darbarfestival)
+    - [Gopalakrishnan TV](https://www.youtube.com/channel/UCehwxQ1ZGiAgui_jvP4xaHA)
+    - [INRECO Carnatic Songs](https://www.youtube.com/channel/UC9VkxD-HuD3CACdnCG82zmw)
+    - [Bharatiya Samagana Sabha](https://www.youtube.com/channel/UCVixXkzBzjvKCHLd8U8rW_w)
+    - [Arkay Ramakrishnan](https://www.youtube.com/user/arkay1955)
+
+  - Websites
+    - [Sangeethapriya](http://www.sangeethapriya.org)
 
 #### Online Learning Resources
-- [Raga Surabhi](http://www.ragasurabhi.com/index.html)
+
+  - ##### Lyrics / Notations
+    - [Karnatik](https://karnatik.com/ragas.shtml)
+    - [Shivkumar Kalyanaraman](http://www.shivkumar.org/music/index.html)
+    - [Thyagaraja Vaibhavam](https://thyagaraja-vaibhavam.blogspot.com/2009/03/tyagaraja-kritis-alphabetical-list.html) - Lyrics & Meanings for Thyagaraja's compositions
+    - [Guru Guha Vaibhavam](https://guru-guha.blogspot.com/2009/04/dikshitar-kritis-alphabetical-list.html) - Lyrics & Meanings for Muthuswami Dikshitar's compositions
+    - [Syama Krishna Vaibhavam](https://syamakrishnavaibhavam.blogspot.com/2011/03/alphabetica-list-of-kritis.html) - Lyrics & Meanings for Muthuswami Dikshitar's compositions
+    - [Sadasiva Brahmendra Vaibhavam](https://sadasivabrahmendra.blogspot.com/)
+    - [Translations of Carnatic Songs](https://translationsofsomesongsofcarnticmusic.blogspot.com/)
+
+  - ##### Miscellaneous
+    - [Raga Surabhi](http://www.ragasurabhi.com/index.html)
 
 #### Composer Central
 - [Muthuswami Dikshitar](http://www.sangeethapriya.org/tributes/dikshithar/index.html)
