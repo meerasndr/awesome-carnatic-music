@@ -37,17 +37,32 @@ Disclaimer: At the moment, this is aimed to be a generic resource list. No speci
 
 ### Listening Resources
 
-  - ##### YouTube Channels
+  - ##### YouTube Channels / Playlists
     - [Sangeetha Rasika](https://www.youtube.com/channel/UC1GKiyaJP1KtrWVoUj9ti5A)
     - [First Edition Arts](https://www.youtube.com/channel/UC7OXY2c5apsxw4J-Kx4p_NQ)
     - [Darbar Festival](https://www.youtube.com/user/darbarfestival)
     - [Gopalakrishnan TV](https://www.youtube.com/channel/UCehwxQ1ZGiAgui_jvP4xaHA)
     - [INRECO Carnatic Songs](https://www.youtube.com/channel/UC9VkxD-HuD3CACdnCG82zmw)
+    - [Parivadini Music](https://www.youtube.com/channel/UCI_ZZUah1img9mg8gNdaCjQ)
     - [Bharatiya Samagana Sabha](https://www.youtube.com/channel/UCVixXkzBzjvKCHLd8U8rW_w)
     - [Arkay Ramakrishnan](https://www.youtube.com/user/arkay1955)
+    - [Sri Parthasarathy Swami Sabha](https://www.youtube.com/channel/UC1B8-rVEHWQjTwvtRk9Rqlw)
+    - [HCL Maestros in Studio - Carnatic Classical](https://www.youtube.com/playlist?list=PLedbciaVCDDKbsWq0KIJiNHe8pQULVATY)
+    - [Narayan Kumar](https://www.youtube.com/user/nkrama)
+    - [Guruvayurappa Dhasan](https://www.youtube.com/user/9443175671/videos)
+    - [Shankar Rajasekharan](https://www.youtube.com/user/tmi654321/featured)
+    - [Ranganathan Srinivasan](https://www.youtube.com/playlist?list=PLcjOt9UwIw-XReT2fQREnUygm02cZuim9)
+    - [Shaale Live](https://www.youtube.com/channel/UC17VuBOE6dhZCs-ivrgGkLg)
+    - [Amutham Music](https://www.youtube.com/channel/UCibYf4owyfqpIUtbwb7B_fw)
+    - [Madrasana](https://www.youtube.com/channel/UC7NdODNgLYVKKs6a6VCKHQQ)
+    - [Aditya Music Carnatic](https://www.youtube.com/channel/UCkGxgZZw4mZ4zjgU69BkLlw)
+    - [Nadham Carnatic Classical](https://www.youtube.com/channel/UCDSbGrghya9nxcxez3QSyOg)
+    - [Tandora Networks](https://www.youtube.com/channel/UCGh3q3IDZF00QqLTxrbYs1A)
 
-  - Websites
+  - #### Websites
     - [Sangeethapriya](http://www.sangeethapriya.org)
+    - [A Home called "Parvathi"](https://chowdaiahandparvati.blogspot.com/)
+
 
 ### Online Learning Resources
 
@@ -66,12 +81,14 @@ Disclaimer: At the moment, this is aimed to be a generic resource list. No speci
 
 ### Composer Central
 - [Muthuswami Dikshitar](http://www.sangeethapriya.org/tributes/dikshithar/index.html)
+- [Sri Narayana Tirtha](http://www.narayanatirtha.org/)
 
 ### Community Websites
 - [Rasikas](http://www.rasikas.org/forums/)
 
 ### Places
 - [Thyagaraja's Brindavana](http://thiruvaiyaruthyagarajaaradhana.org/)
+- [The Karnatic Music Book Centre](https://www.facebook.com/carnaticbooks/)
 
 ### Mobile Apps
 - [Kuyil Carnatic Apps](https://kuyil.org/)
