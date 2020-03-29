@@ -22,22 +22,22 @@ PRs welcome! If you're not able to do a PR, reply to [this tweet](https://twitte
 
 
 ### Books
-- [The Karnatic Music Book Centre](https://www.facebook.com/carnaticbooks/)
-- [Music Research Library](http://musicresearchlibrary.net/omeka/)
 - [Carnatic Summer](https://www.goodreads.com/book/show/4809072-carnatic-summer)
 - [Great Masters of Carnatic Music](https://www.goodreads.com/book/show/10701518-great-masters-of-carnatic-music-1930-1965)
-- [The Madras Quartet: Women in Karnatak Music](https://www.goodreads.com/book/show/52528379-the-madras-quartet)
+- [Music Research Library](http://musicresearchlibrary.net/omeka/)
 - [The Devadasi and the Saint: The life and times of Bangalore Nagarathnamma](https://www.goodreads.com/book/show/10434498-the-devadasi-and-the-saint)
+- [The Karnatic Music Book Centre](https://www.facebook.com/carnaticbooks/)
+- [The Madras Quartet: Women in Karnatak Music](https://www.goodreads.com/book/show/52528379-the-madras-quartet)
 - [Voice of the Veena](https://www.goodreads.com/book/show/15815995-voice-of-the-veena-s-balachander)
 
 ### Blogs
-- [Sruti Online Magazine](https://srutimag.blogspot.com/)
 - [Brain Drain](https://kpjayan.wordpress.com/)
-- [Nadha Sudha Rasa](https://nadhasudharasa.blogspot.com/)
-- [Sunson - Just Thinking Out Loud](https://sunson.wordpress.com/)
-- [Sriram V](https://sriramv.wordpress.com/category/carnatic-music/)
-- [Vishnu Vasudev](https://medium.com/@vishnuvasudev_63314)
 - [Gamakam by Lalitharam](https://carnaticmusicreview.wordpress.com/) - Predominantly in Tamizh
+- [Nadha Sudha Rasa](https://nadhasudharasa.blogspot.com/)
+- [Sriram V](https://sriramv.wordpress.com/category/carnatic-music/)
+- [Sruti Online Magazine](https://srutimag.blogspot.com/)
+- [Sunson - Just Thinking Out Loud](https://sunson.wordpress.com/)
+- [Vishnu Vasudev](https://medium.com/@vishnuvasudev_63314)
 
 ### Listening Resources
 
@@ -73,13 +73,13 @@ PRs welcome! If you're not able to do a PR, reply to [this tweet](https://twitte
 ### Online Learning Resources
 
   - ##### Lyrics / Notations
-    - [Karnatik](https://karnatik.com/ragas.shtml)
-    - [Shivkumar Kalyanaraman](http://www.shivkumar.org/music/index.html)
-    - [Patantara](https://patantara.com/notations/) - High Quality Carnatic Music notation
-    - [Thyagaraja Vaibhavam](https://thyagaraja-vaibhavam.blogspot.com/2009/03/tyagaraja-kritis-alphabetical-list.html) - Lyrics & Meanings for Thyagaraja's compositions
     - [Guru Guha Vaibhavam](https://guru-guha.blogspot.com/2009/04/dikshitar-kritis-alphabetical-list.html) - Lyrics & Meanings for Muthuswami Dikshitar's compositions
-    - [Syama Krishna Vaibhavam](https://syamakrishnavaibhavam.blogspot.com/2011/03/alphabetica-list-of-kritis.html) - Lyrics & Meanings for Muthuswami Dikshitar's compositions
+    - [Karnatik](https://karnatik.com/ragas.shtml)
+    - [Patantara](https://patantara.com/notations/) - High Quality Carnatic Music notation
     - [Sadasiva Brahmendra Vaibhavam](https://sadasivabrahmendra.blogspot.com/) - Lyrics & Meanings for Sadhashiva Brahmendra's compositions
+    - [Shivkumar Kalyanaraman](http://www.shivkumar.org/music/index.html)
+    - [Syama Krishna Vaibhavam](https://syamakrishnavaibhavam.blogspot.com/2011/03/alphabetica-list-of-kritis.html) - Lyrics & Meanings for Muthuswami Dikshitar's compositions
+    - [Thyagaraja Vaibhavam](https://thyagaraja-vaibhavam.blogspot.com/2009/03/tyagaraja-kritis-alphabetical-list.html) - Lyrics & Meanings for Thyagaraja's compositions
     - [Translations of Carnatic Songs](https://translationsofsomesongsofcarnticmusic.blogspot.com/)
 
   - ##### Miscellaneous
@@ -93,13 +93,13 @@ PRs welcome! If you're not able to do a PR, reply to [this tweet](https://twitte
 - [Rasikas](http://www.rasikas.org/forums/)
 
 ### Places
-- [Thyagaraja's Brindavana](http://thiruvaiyaruthyagarajaaradhana.org/)
 - [Madras Music Academy](https://musicacademymadras.in/)
+- [Thyagaraja's Brindavana](http://thiruvaiyaruthyagarajaaradhana.org/)
 
 ### Mobile Apps
 - [Kuyil Carnatic Apps](https://kuyil.org/)
-- [Upbeat Labs](http://www.upbeatlabs.com/)
-- [Riyaz App](https://riyazapp.com/)
 - [Layam Carnatic Metronome](http://mysorevadiraj.com/layam-carnatic-metronome-app/)
-- [Tanpura Droid](https://play.google.com/store/apps/details?id=com.swarsystems.is)
+- [Riyaz App](https://riyazapp.com/)
 - [Tala Keeper](http://talakeeper.org/) - A programmable visual interface
+- [Tanpura Droid](https://play.google.com/store/apps/details?id=com.swarsystems.is)
+- [Upbeat Labs](http://www.upbeatlabs.com/)
