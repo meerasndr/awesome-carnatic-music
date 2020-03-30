@@ -30,18 +30,16 @@ PRs welcome! If you're not able to do a PR, reply to [this tweet](https://twitte
 - [The Madras Quartet: Women in Karnatak Music](https://www.goodreads.com/book/show/52528379-the-madras-quartet)
 - [Voice of the Veena](https://www.goodreads.com/book/show/15815995-voice-of-the-veena-s-balachander)
 
-#### Classics
-- [Natya Shastra](https://sanskritdocuments.org/sanskrit/natyashastra/) by
-  Bharata Muni
-- Sangeetha Ratnakara by Sharngadeva (Saaranga Deva)
-  - [Preview](https://www.google.com/books/edition/Sangitaratnakara_of_Sarngadeva/7gEUAwAAQBAJ?hl=en&gbpv=1&printsec=frontcover)
-  - [With commentary](https://archive.org/details/SangitaRatnakara/page/n3/mode/2up)
+  #### Classics
+    - [Natya Shastra](https://sanskritdocuments.org/sanskrit/natyashastra/) by Bharata Muni
+    - Sangeetha Ratnakara by Sharngadeva (Saaranga Deva)
+    - [Preview](https://www.google.com/books/edition/Sangitaratnakara_of_Sarngadeva/7gEUAwAAQBAJ?hl=en&gbpv=1&printsec=frontcover)
+    - [With commentary](https://archive.org/details/SangitaRatnakara/page/n3/mode/2up)
 
 ### Blogs
 - [Brain Drain](https://kpjayan.wordpress.com/)
 - [Gamakam by Lalitharam](https://carnaticmusicreview.wordpress.com/) - Predominantly in Tamizh
 - [Nadha Sudha Rasa](https://nadhasudharasa.blogspot.com/)
-- [Srrenivas Rao](https://sreenivasaraos.com/)
 - [Sriram V](https://sriramv.wordpress.com/category/carnatic-music/)
 - [Sruti Online Magazine](https://srutimag.blogspot.com/)
 - [Sunson - Just Thinking Out Loud](https://sunson.wordpress.com/)
