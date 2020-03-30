@@ -33,8 +33,8 @@ PRs welcome! If you're not able to do a PR, reply to [this tweet](https://twitte
   #### Classics
     - [Natya Shastra](https://sanskritdocuments.org/sanskrit/natyashastra/) by Bharata Muni
     - Sangeetha Ratnakara by Sharngadeva (Saaranga Deva)
-    - [Preview](https://www.google.com/books/edition/Sangitaratnakara_of_Sarngadeva/7gEUAwAAQBAJ?hl=en&gbpv=1&printsec=frontcover)
-    - [With commentary](https://archive.org/details/SangitaRatnakara/page/n3/mode/2up)
+      - [Preview](https://www.google.com/books/edition/Sangitaratnakara_of_Sarngadeva/7gEUAwAAQBAJ?hl=en&gbpv=1&printsec=frontcover)
+      - [With commentary](https://archive.org/details/SangitaRatnakara/page/n3/mode/2up)
 
 ### Blogs
 - [Brain Drain](https://kpjayan.wordpress.com/)
