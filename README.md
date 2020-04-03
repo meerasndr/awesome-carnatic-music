@@ -64,11 +64,13 @@ PRs welcome! If you're not able to do a PR, reply to [this tweet](https://twitte
     - [Nadham Carnatic Classical](https://www.youtube.com/channel/UCDSbGrghya9nxcxez3QSyOg)
     - [Narayan Kumar](https://www.youtube.com/user/nkrama)
     - [Parivadini Music](https://www.youtube.com/channel/UCI_ZZUah1img9mg8gNdaCjQ)
+    - [Raju Asokan](https://www.youtube.com/user/vintageaudio54)
     - [Ranganathan Srinivasan](https://www.youtube.com/playlist?list=PLcjOt9UwIw-XReT2fQREnUygm02cZuim9)
     - [Sangeetha Rasika](https://www.youtube.com/channel/UC1GKiyaJP1KtrWVoUj9ti5A)
     - [Shaale Live](https://www.youtube.com/channel/UC17VuBOE6dhZCs-ivrgGkLg)
     - [Shankar Rajasekharan](https://www.youtube.com/user/tmi654321/featured)
     - [Sri Parthasarathy Swami Sabha](https://www.youtube.com/channel/UC1B8-rVEHWQjTwvtRk9Rqlw)
+    - [Swamimalai Saravanan](https://www.youtube.com/channel/UCbqhxgEdQvHXcLng8_MBqmg) - Nagaswaram intensive
     - [Tandora Networks](https://www.youtube.com/channel/UCGh3q3IDZF00QqLTxrbYs1A)
 
   - #### Websites
@@ -92,7 +94,9 @@ PRs welcome! If you're not able to do a PR, reply to [this tweet](https://twitte
     - [Raga Surabhi](http://www.ragasurabhi.com/index.html)
 
 ### Composer Central
-- [Muthuswami Dikshitar](http://www.sangeethapriya.org/tributes/dikshithar/index.html)
+- Muthuswami Dikshitar
+    - [Guruguha](http://guruguha.org/)
+    - [Sangeethapriya Tribute Page](http://www.sangeethapriya.org/tributes/dikshithar/index.html)
 - [Sri Narayana Tirtha](http://www.narayanatirtha.org/)
 
 ### Community Websites
