@@ -107,10 +107,11 @@ PRs welcome! If you're not able to do a PR, reply to [this tweet](https://twitte
 - [Madras Music Academy](https://musicacademymadras.in/)
 - [Thyagaraja's Brindavana](http://thiruvaiyaruthyagarajaaradhana.org/)
 
-### Mobile Apps
+### Apps
 - [Kuyil Carnatic Apps](https://kuyil.org/)
 - [Layam Carnatic Metronome](http://mysorevadiraj.com/layam-carnatic-metronome-app/)
 - [Riyaz App](https://riyazapp.com/)
 - [Tala Keeper](http://talakeeper.org/) - A programmable visual interface
 - [Tanpura Droid](https://play.google.com/store/apps/details?id=com.swarsystems.is)
 - [Upbeat Labs](http://www.upbeatlabs.com/)
+- [Ragaflow](https://github.com/aiexplorations/RagaExperiments/blob/master/Ragaflow.ipynb)
