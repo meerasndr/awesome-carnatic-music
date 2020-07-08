@@ -39,6 +39,7 @@ PRs welcome! If you're not able to do a PR, reply to [this tweet](https://twitte
 ### Blogs
 - [Brain Drain](https://kpjayan.wordpress.com/)
 - [Gamakam by Lalitharam](https://carnaticmusicreview.wordpress.com/) - Predominantly in Tamizh
+- [Javali.blog](https://javali.blog/) - Javalis - Lyrics and More
 - [Nadha Sudha Rasa](https://nadhasudharasa.blogspot.com/)
 - [Sriram V](https://sriramv.wordpress.com/category/carnatic-music/)
 - [Sruti Online Magazine](https://srutimag.blogspot.com/)
@@ -68,6 +69,7 @@ PRs welcome! If you're not able to do a PR, reply to [this tweet](https://twitte
     - [Ranganathan Srinivasan](https://www.youtube.com/playlist?list=PLcjOt9UwIw-XReT2fQREnUygm02cZuim9)
     - [Sangeetha Rasika](https://www.youtube.com/channel/UC1GKiyaJP1KtrWVoUj9ti5A)
     - [Shaale Live](https://www.youtube.com/channel/UC17VuBOE6dhZCs-ivrgGkLg)
+    - [Sir Roderick Glossop](https://www.youtube.com/channel/UCaqo36k2FIXi09HFCnFImnw)
     - [Shankar Rajasekharan](https://www.youtube.com/user/tmi654321/featured)
     - [Sri Parthasarathy Swami Sabha](https://www.youtube.com/channel/UC1B8-rVEHWQjTwvtRk9Rqlw)
     - [Swamimalai Saravanan](https://www.youtube.com/channel/UCbqhxgEdQvHXcLng8_MBqmg) - Nagaswaram intensive
