@@ -53,6 +53,7 @@ PRs welcome! If you're not able to do a PR, reply to [this tweet](https://twitte
     - [Amutham Music](https://www.youtube.com/channel/UCibYf4owyfqpIUtbwb7B_fw)
     - [Arkay Ramakrishnan](https://www.youtube.com/user/arkay1955)
     - [Bharatiya Samagana Sabha](https://www.youtube.com/channel/UCVixXkzBzjvKCHLd8U8rW_w)
+    - [Carnatic Center](https://www.youtube.com/channel/UCvssQ59vJ0fxHcTZA100peQ)
     - [Carnatic World](https://www.youtube.com/channel/UC94j0n0mlgzG7_M8GF-6E8A)
     - [Darbar Festival](https://www.youtube.com/user/darbarfestival)
     - [First Edition Arts](https://www.youtube.com/channel/UC7OXY2c5apsxw4J-Kx4p_NQ)
