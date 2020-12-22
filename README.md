@@ -11,7 +11,7 @@ PRs welcome! If you're not able to do a PR, reply to [this tweet](https://twitte
 ## Categories
 1. [Books](#books)
 2. [Blogs](#blogs)
-3. [Listening Resources](#learning-resources)
+3. [Listening Resources](#listening-resources)
 4. [Online Learning Resources](#online-learning-resources)
 5. [Composer Central](#composer-central)
 6. [Community websites](#community-websites)
